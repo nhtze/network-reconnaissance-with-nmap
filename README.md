@@ -58,3 +58,10 @@ OpenSSH 10.2p1
 Risk:
 No obvious vulnerabilities identified during the assessment.
 
+## What I learned
+- NAT and Bridged networking.
+- Troubleshooting connectivity issues before assessments
+- How TCP Connect scans differ from default host discovery.
+- An open port represents an attack surface, not automatically a vulnerability.
+- The importance of service enumeration before assessing security risks.
+- Improved technical documentation and reporting skills.
