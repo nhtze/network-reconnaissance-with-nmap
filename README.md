@@ -34,7 +34,8 @@ different network protocols, the usage of Nmap and the ability to document the w
 
 ## Lab Topology
 
-(image)
+<img width="697" height="466" alt="image" src="https://github.com/user-attachments/assets/70974e85-aef2-4aa7-993b-cdd594a74bca" />
+
 
 ## Methodology
 
