@@ -7,7 +7,8 @@ network reconnaissance using Nmap.
 
 ## Reason behind this project
 
-The creation of this project aims to demonstrate problem-solving, troubleshooting and critical thinking skills as well as the knowledge of
+The purpose of this project was to stregthen my knowledge and understanding of networking, Linux fundamentals
+and to demonstrate problem-solving, troubleshooting and critical thinking skills as well as the knowledge of
 different network protocols, the usage of Nmap and the ability to document the whole process.
 
 
