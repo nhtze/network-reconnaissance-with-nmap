@@ -28,6 +28,9 @@ different network protocols, the usage of Nmap and the ability to document the w
 - Port Scanning
 - Service Enumeration
 - Troubleshooting
+- Network Troubleshooting
+- Technical Documentation
+- Security Assessment Methodology
 
 ## Lab Topology
 
