@@ -5,6 +5,12 @@
 Build a virtual penetration testing lab using Ubuntu Server and perform
 network reconnaissance using Nmap.
 
+## Reason behind this project
+
+The creation of this project aims to demonstrate problem-solving, troubleshooting and critical thinking skills as well as the knowledge of
+different network protocols, the usage of Nmap and the ability to document the whole process.
+
+
 ## Technologies
 
 - Ubuntu Server
