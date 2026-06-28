@@ -47,6 +47,13 @@ different network protocols, the usage of Nmap and the ability to document the w
 7. Enumerate SSH Service
 8. Analyze Findings
 
+## Challenges Encountered
+
+- Initial scans failed due to host discovery issues in the virtual lab.
+- Investigated the issue by verifying connectivity, service status, and network configuration.
+- Identified that a TCP Connect Scan (`-sT`) combined with `-Pn` successfully enumerated the target.
+- Learned the importance of validating assumptions before troubleshooting scanning tools.
+
 ## Findings
 
 Open Port:
@@ -59,6 +66,7 @@ Risk:
 No obvious vulnerabilities identified during the assessment.
 
 ## What I learned
+
 - NAT and Bridged networking.
 - Troubleshooting connectivity issues before assessments
 - How TCP Connect scans differ from default host discovery.
